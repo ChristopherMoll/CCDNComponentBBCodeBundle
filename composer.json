@@ -2,7 +2,7 @@
     "name": "codeconsortium/ccdn-component-bb-code-bundle",
     "description": "CCDN Component BBCode Bundle",
     "keywords": ["ccdn", "codeconsortium", "bulletin code", "BB code", "markup", "parser"],
-    "homepage": "http://github.com/codeconsortium/CCDNComponentBBCodeBundle",
+    "homepage": "http://github.com/ChristopherMoll/CCDNComponentBBCodeBundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
@@ -10,6 +10,10 @@
             "name": "Reece Fowell",
             "email": "reece@codeconsortium.com",
             "homepage": "http://www.reecefowell.com"
+        },
+        {
+            "name": "Chris Moll",
+            "email": "senormoll@gmail.com"
         }
     ],
     "minimum-stability": "dev",
